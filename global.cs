@@ -1,0 +1,9 @@
+﻿global using Task_Management.Data;
+global using Task_Management.Models;
+global using System.Collections.Generic;
+global using Microsoft.EntityFrameworkCore;
+global using System.Security.Cryptography;
+global using Task_Management.Auth;
+global using Task_Management.Queries;
+global using Task_Management.Services;
+global using Task_Management.Common;
